@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkTheif&show_icons=true&theme=dracula&count_private=true" alt="DarkTheif" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkTheif&show_icons=true&theme=radical" alt="DarkTheif's github stats" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkTheif&layout=compact" alt="DarkTheif's github stats" height="200"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=DarkTheif&theme=dracula&count_private=true" width="1200"></div></p>
 
 
