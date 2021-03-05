@@ -30,6 +30,19 @@ Here are some ideas to get you started:
 <div><img src="https://github-profile-trophy.vercel.app/?username=DarkTheif&theme=dracula&count_private=true" width="1200"></div></p>
 
 
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkTheif&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkTheif&repo=convoychat" />
+</a>
+
+
 <!--
 **DarkTheif/DarkTheif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
