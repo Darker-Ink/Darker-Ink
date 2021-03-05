@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DarkTheif/Odd-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkTheif&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/DarkTheif/Odd-Bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarkTheif&repo=convoychat" />
 </a>
 
