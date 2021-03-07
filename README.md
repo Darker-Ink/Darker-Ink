@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkTheif" alt="DarkTheif" height="200"/>
+![DarkTheif Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkTheif&langs_count=8&theme=radical&layout=compact&card_width=445)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkTheif&show_icons=true&theme=radical&count_private=true" alt="DarkTheif" height="200"/>
 <!--
