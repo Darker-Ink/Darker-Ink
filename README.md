@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkTheif&show_icons=true&theme=dracula&count_private=true" alt="DarkTheif" height="200"/>
 
-[![DarkerInk's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkTheif)](https://github.com/DarkTheif/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="DarkTheif" height="200"/>
 <!--
 **DarkTheif/DarkTheif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
