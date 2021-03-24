@@ -4,12 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarkTheif" alt="DarkTheif" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Snow Music And Fall Music
+- 🔭 I’m currently working on Blue Sky And Red Sky
 - 🌱 I’m currently learning JavaScript and Discord.js
 - 👯 I’m looking to collaborate on a Discord Bot
-- 🤔 I’m looking for help with Snow Music
+- 🤔 I’m looking for help with Blue Sky
 - 💬 Ask me about anything
 - 📫 How to reach me: rstonehouse66@gmail.com
 - ⚡ Fun fact: I like Gaming
@@ -25,10 +24,10 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![DarkTheif Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkTheif&langs_count=8&theme=radical&layout=compact&card_width=445)
+![DarkTheif Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darker-Ink&langs_count=8&theme=radical&layout=compact&card_width=445)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkTheif&show_icons=true&theme=radical&count_private=true" alt="DarkTheif" height="200"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darker-Ink&show_icons=true&theme=radical&count_private=true" alt="Darker-Ink" height="200"/>
 <!--
-**DarkTheif/DarkTheif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Darker-Ink/Darker-Ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
