@@ -24,7 +24,7 @@
 <br />
 <br />
 
-![DarkTheif Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darker-Ink&langs_count=8&theme=radical&layout=compact&card_width=445)
+![Darker-Ink Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darker-Ink&langs_count=8&theme=radical&layout=compact&card_width=445)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darker-Ink&show_icons=true&theme=radical&count_private=true" alt="Darker-Ink" height="200"/>
