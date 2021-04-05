@@ -7,12 +7,7 @@
 
 - 🔭 I’m currently working on Blue Sky And Red Sky
 - 🌱 I’m currently learning JavaScript and Discord.js
-- 👯 I’m looking to collaborate on a Discord Bot
-- 🤔 I’m looking for help with Blue Sky
 - 💬 Ask me about anything
-- 📫 How to reach me: rstonehouse66@gmail.com
-- ⚡ Fun fact: I like Gaming
-
 
 
 ### Languages and Tools:
