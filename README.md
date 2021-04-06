@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on Blue Sky And Red Sky
 - 🌱 I’m currently learning JavaScript and Discord.js
 - 💬 Ask me about anything
+- 👀 I got a website!! [Click Here](https://www.sky-bot.cf/) To check it out!
 
 
 ### Languages and Tools:
