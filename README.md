@@ -10,6 +10,9 @@
 - 💬 Ask me about anything
 - 👀 I got a website!! [Click Here](https://www.sky-bot.cf/) To check it out!
 
+What I am listening to!
+
+[<img src="https://darks-spotify-page.vercel.app/api/run-spotify-status" alt="dark" width="350" />](https://open.spotify.com/user/swajips78058o3ojkcq72r1p8?si=d10f579e3a804b83)
 
 ### Languages and Tools:
 
