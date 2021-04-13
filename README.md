@@ -12,7 +12,10 @@
 
 What I am listening to!
 
-[<img src="https://darks-spotify-page.vercel.app/api/run-spotify-status" alt="dark" width="350" />](https://open.spotify.com/user/swajips78058o3ojkcq72r1p8?si=d10f579e3a804b83)
+<p align="center">
+   <h3>Demo</h3>
+   <img src="https://darks-spotify-page.vercel.app/api/run-spotify-status" alt="Playing Now" width="500" />
+<p align="center">
 
 ### Languages and Tools:
 
