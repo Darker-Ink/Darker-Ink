@@ -14,7 +14,7 @@
 
 <p align="center">
    <h3>What I am listening to!</h3>
-   <img src="https://darks-spotify-page.vercel.app/api/run-spotify-status" alt="Playing Now" width="500" />
+   <img src="https://darks-spotify-page.vercel.app/api/run-spotify-status" alt="Well Looks like I'm off or listening to a Ad" width="500" />
 <p align="center">
 
 ### Languages and Tools:
