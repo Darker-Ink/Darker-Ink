@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darker-Ink" alt="Darker-Ink" /> </p>
 
 
-- 🔭 I’m currently working on Blue Sky And Red Sky
+- 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning JavaScript and Discord.js
 - 💬 Ask me about anything
 - 👀 I got a website!! [Click Here](https://www.sky-bot.cf/) To check it out!
