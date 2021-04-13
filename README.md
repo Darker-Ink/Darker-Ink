@@ -10,10 +10,10 @@
 - 💬 Ask me about anything
 - 👀 I got a website!! [Click Here](https://www.sky-bot.cf/) To check it out!
 
-What I am listening to!
+
 
 <p align="center">
-   <h3>Demo</h3>
+   <h3>What I am listening to!</h3>
    <img src="https://darks-spotify-page.vercel.app/api/run-spotify-status" alt="Playing Now" width="500" />
 <p align="center">
 
