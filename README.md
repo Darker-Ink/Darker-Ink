@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darker-Ink" alt="Darker-Ink" /> </p>
 
-<p align="left">Hey, I'm DarkerInk.  I'm currently working on a <a href="https://cattologger.cloud">Project</a> For <a href="https://discord.com">Discord</a> You should come check it out</p>
+<p align="left">Hey, I'm DarkerInk.  I'm currently working on a <a href="https://cattologger.cloud">Project</a> For <a href="https://discord.gg/HmWz9AvFsj">Discord</a> You should come check it out</p>
 
 ###  Languages and Tools:
 <p>These Are some of the languages that I know and use</p>
