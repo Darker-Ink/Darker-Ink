@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darker-Ink" alt="Darker-Ink" /> </p>
 
-<p align="left">Hey, I'm DarkerInk. Check out <a href="https://zenaxis.org">ZenAxis</a> A Community Discord Server :D</p>
+<p align="left">Hey, I'm DarkerInk. I was born in Iowa, I like Coding and Working on projects, I'm currently working on a Application called <a href="https://kastelapp.com">Kastel</a> Its a Chatting Platfrom, Its Open sourced as well! I've been learning to code for 3ish years, I know Node.JS, React & Next.js, I've also been learning some C++ To get into Game Development.</p>
 
 ###  Languages and Tools:
 <p>These Are some of the languages that I know and use</p>
@@ -17,11 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darker-Ink&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Darker-Ink" height="200"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darker-Ink&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
 <br />
-
-
-<p align="center">
-
-<h3>What I am listening to!</h3>
-
-<img align="center" src="https://darks-spotify-page.vercel.app/api/run-spotify-status" width="500" />
-</p>
