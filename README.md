@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darker-Ink" alt="Darker-Ink" /> </p>
 
-<p align="left">Hey, I'm DarkerInk. I was born in Iowa, I like Coding and Working on projects, I'm currently working on a Application called <a href="https://kastelapp.com">Kastel</a> Its a Chatting Platform, Its Open sourced as well! I've been learning to code for 3ish years, I know Node.JS, React & Next.js, I've also been learning some C++ To get into Game Development.</p>
+<p align="left">Hey, I'm DarkerInk. I like to Code in my free time, I've been coding for a few years now and find it fun. I really want to be a chef though I would also like a coding job.</p>
 
 ###  Languages and Tools:
 <p>These Are some of the languages that I know and use</p>
