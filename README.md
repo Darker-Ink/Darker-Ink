@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Darker-Ink" alt="Darker-Ink" /> </p>
 
-<p align="left">Hey, I'm DarkerInk. I like to Code in my free time, I've been coding for a few years now and find it fun. I really want to be a chef though I would also like a coding job.</p>
+<p align="left">Hey, I'm DarkerInk. I like to Code in my free time, I've been coding for a few years now and find it fun. I really want to be a chef though I would also like a coding job.</p> I do got a Discord Account if you would like to add me, DarkerInk#1750 I'm on most of the time!
 
 ###  Languages and Tools:
 <p>These Are some of the languages that I know and use</p>
