@@ -1,5 +1,5 @@
 ###  Hi there 👋
-Hey, I'm DarkerInk. I'm a 16 year old coder who likes to code in his free time. I've been coding for a few years now and find it fun.
+Hey, I'm DarkerInk. I'm a 17 year old coder who likes to code in his free time. I've been coding for a few years now and find it fun.
 
 I've messed around with a few languages, I'm most comfortable with JavaScript / TypeScript and Node.js. I've also messed around with Rust, Python, C#, C++, Java, HTML, CSS, and a few others. I've also been learning React/Next.js for a few months now. I've also been learning python & Rust for a few weeks now.
 
