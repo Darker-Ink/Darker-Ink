@@ -54,5 +54,7 @@ Besides coding I also have spent time using Linux, I've used Ubuntu, Manjaro, an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darker-Ink&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Darker-Ink" height="200"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darker-Ink&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
 <br /></p>
-<p>&nbsp;<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkerInk&api_domain=stats.incoaudit.org&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=DarkerInks%20Current%20Week%20Status&layout=compact" />
-<br /></p>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; z-index: -10; position: fixed; pointer-events: none; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.45; background: url('https://github.com/hex2f/hex2f/blob/main/ghbg.jpg?raw=true');]{x0000}$}
+```
