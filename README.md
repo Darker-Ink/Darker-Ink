@@ -1,5 +1,5 @@
 ###  Hi there 👋
-Hey, I'm DarkerInk. I'm a 17 year old coder who likes to code in his free time. I've been coding for a few years now and find it fun.
+Hey, I'm DarkerInk. I'm a 18 year old coder who likes to code in his free time. I've been coding for a few years now and find it fun.
 
 I've messed around with a few languages, I'm most comfortable with JavaScript / TypeScript and Node.js. I've also messed around with Rust, Python, C#, C++, Java, HTML, CSS, and a few others. I've also been learning React/Next.js for a few months now. I've also been learning python & Rust for a few weeks now.
 
@@ -54,7 +54,3 @@ Besides coding I also have spent time using Linux, I've used Ubuntu, Manjaro, an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Darker-Ink&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="Darker-Ink" height="200"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darker-Ink&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&count_private=true" height="202"/>
 <br /></p>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; z-index: -10; position: fixed; pointer-events: none; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.45; background: url('https://github.com/hex2f/hex2f/blob/main/ghbg.jpg?raw=true');]{x0000}$}
-```
